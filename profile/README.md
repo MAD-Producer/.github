@@ -1,4 +1,3 @@
-<video>https://r2.ift.onl/home_promo_video.mp4</video>
 ## Hi there 👋
 
 We are **MAD Producer**, aiming to become a leading comprehensive MAD information platform in China.
@@ -38,3 +37,7 @@ We do not charge users or creators for access.
 ---
 
 _Make MAD information clearer, more connected, and easier to build upon._
+
+---
+Powered by MAD Producer Studio
+<img width="1080" height="1080" alt="横 黄_00000" src="https://github.com/user-attachments/assets/8ee011d3-d690-4845-8e9c-9ea647238a00" />
