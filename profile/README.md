@@ -40,4 +40,4 @@ _Make MAD information clearer, more connected, and easier to build upon._
 
 ---
 Powered by MAD Producer Studio
-<img width="1080" height="1080" alt="横 黄_00000" src="https://github.com/user-attachments/assets/8ee011d3-d690-4845-8e9c-9ea647238a00" />
+<img width="1080" height="400" alt="横 黄_00000" src="https://github.com/user-attachments/assets/8ee011d3-d690-4845-8e9c-9ea647238a00" />
