@@ -25,7 +25,8 @@ If you're interested, feel free to open an issue or submit a pull request.
 ### 👩‍💻 Useful resources
 - Official website: https://madproducer.com  
 - CN mirror: https://madproducer.cn  
-- MAD Docs & references: (work in progress)
+- MAD Docs & references: https://doc.madproducer.top
+- External Corporate Cloud Storage: https://ift.onl/
 
 ### 🧙 About us
 MAD Producer is built and maintained together with **MAD Producer Studio**,  
