@@ -1,3 +1,4 @@
+<video>https://r2.ift.onl/home_promo_video.mp4</video>
 ## Hi there 👋
 
 We are **MAD Producer**, aiming to become a leading comprehensive MAD information platform in China.
