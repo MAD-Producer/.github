@@ -41,5 +41,5 @@ _Make MAD information clearer, more connected, and easier to build upon._
 ---
 <p align="center">
 Powered by MAD Producer Studio
-</p>
 <img width="855" height="240" alt="1770690501-横-黄_00000-e1770690532993" src="https://github.com/user-attachments/assets/9568f64b-0869-4270-9b66-11249ef3e0fb" />
+</p>
