@@ -39,5 +39,7 @@ We do not charge users or creators for access.
 _Make MAD information clearer, more connected, and easier to build upon._
 
 ---
+<p align="center">
 Powered by MAD Producer Studio
-<img width="1080" height="400" alt="横 黄_00000" src="https://github.com/user-attachments/assets/8ee011d3-d690-4845-8e9c-9ea647238a00" />
+</p>
+<img width="855" height="240" alt="1770690501-横-黄_00000-e1770690532993" src="https://github.com/user-attachments/assets/9568f64b-0869-4270-9b66-11249ef3e0fb" />
