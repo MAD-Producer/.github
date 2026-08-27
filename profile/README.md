@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://madproducer.com/">Official Website</a> ·
+  <a href="https://madproducer.com/en">Official Website</a> ·
   <a href="https://madproducer.com/en/about">About Us</a> ·
   <a href="https://doc.madproducer.top">MAD Docs</a> ·
   <a href="https://toolbox.madproducer.cn">MAD Toolbox</a>
@@ -52,6 +52,6 @@ If you have an idea or spot something that needs improvement, open an issue or s
 ---
 
 <p align="center">
-  Built and maintained by the <strong>MAD Producer Studio</strong> team.<br />
+  Built and maintained by the <strong>MAD Producer Studio</strong>.<br />
   <em>Make MAD information clearer, more connected, and easier to build upon.</em>
 </p>
