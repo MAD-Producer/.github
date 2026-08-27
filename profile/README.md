@@ -9,10 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://madproducer.com/en">Official Website</a> ·
+  <a href="https://madproducer.com/">Official Website</a> ·
   <a href="https://madproducer.com/en/about">About Us</a> ·
   <a href="https://doc.madproducer.top">MAD Docs</a> ·
-  <a href="https://toolbox.madproducer.cn">MAD Toolbox</a>
+  <a href="https://toolbox.madproducer.cn">MAD Toolbox</a> ·
+  <a href="https://www.youtube.com/@InfiniteTeamOfficial">YouTube</a> ·
+  <a href="https://x.com/Infinite_Team_X">Twitter / X</a>
 </p>
 
 ## What we build
@@ -45,6 +47,8 @@ If you have an idea or spot something that needs improvement, open an issue or s
 - [Chinese website](https://madproducer.cn/)
 - [MAD Docs & references](https://doc.madproducer.top)
 - [Cloud storage](https://dl.mad.org.cn/)
+- [YouTube](https://www.youtube.com/@InfiniteTeamOfficial)
+- [Twitter / X](https://x.com/Infinite_Team_X)
 - [Bilibili](https://space.bilibili.com/3546821106338121)
 - [Discord](https://discord.gg/vmtJcs5nxk)
 - [QQ group](https://qm.qq.com/q/bHKkOGe2Yw)
@@ -52,6 +56,6 @@ If you have an idea or spot something that needs improvement, open an issue or s
 ---
 
 <p align="center">
-  Built and maintained by the <strong>MAD Producer Studio</strong>.<br />
+  Built and maintained by the <strong>MAD Producer Studio</strong> team.<br />
   <em>Make MAD information clearer, more connected, and easier to build upon.</em>
 </p>
