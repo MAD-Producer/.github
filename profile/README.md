@@ -26,7 +26,8 @@ If you're interested, feel free to open an issue or submit a pull request.
 - Official website: https://madproducer.com  
 - CN mirror: https://madproducer.cn  
 - MAD Docs & references: https://doc.madproducer.top
-- External Corporate Cloud Storage: https://ift.onl/
+- External Corporate Cloud Storage: https://dl.mad.org.cn/
+- MAD Toolbox: https://toolbox.madproducer.cn
 
 ### 🧙 About us
 MAD Producer is built and maintained together with **MAD Producer Studio**,  
